@@ -28,7 +28,7 @@ Go
 
 .. code:: go
 
-   var name sting = "Python编程时光"
+   var name string = "Python编程时光"
 
 在 Go
 文件中的完整代码如下，为了不写重复性的代码，后续不再貼完整代码，只貼关键代码
@@ -60,7 +60,7 @@ float64，但是很多情况下，我们并不需要这么高的精度（占用�
 
 .. code:: go
 
-   var rate float32 0.89
+   var rate float32 = 0.89
 
 **第二种**\ ：多个变量一起声明
 
